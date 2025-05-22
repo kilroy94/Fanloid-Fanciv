@@ -28,7 +28,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [134,206,203],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Fanloid Fancity", "Crypton", "UTAU", "SynthV", "Aria", "AHS", "Internet Co.", "Gynoid Co.", "Yamaha", "Voiceroid"]
 	}
