@@ -2,8 +2,8 @@
 	{
 		"name": "Kagamine Rin",
 		"unitType": "Gunpowder",
-		"replaces": "Infantry",
 		"uniqueTo": "Fanloid Fanciv"
+		"replaces": "Infantry",
 		"movement": 3,
 		"strength": 75,
 		"cost": 375,
